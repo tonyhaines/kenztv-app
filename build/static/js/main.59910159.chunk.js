@@ -1,0 +1,2 @@
+(this["webpackJsonpkenztv-app"]=this["webpackJsonpkenztv-app"]||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var c=t(1),i=t(0),o=t.n(i),r=t(3),p=t.n(r);t(9);var a=function(e){e&&e instanceof Function&&t.e(3).then(t.bind(null,11)).then((function(n){var t=n.getCLS,c=n.getFID,i=n.getFCP,o=n.getLCP,r=n.getTTFB;t(e),c(e),i(e),o(e),r(e)}))};p.a.render(Object(c.jsx)(o.a.StrictMode,{children:Object(c.jsx)("p",{children:"Site Under Development"})}),document.getElementById("root")),a()},9:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.59910159.chunk.js.map
